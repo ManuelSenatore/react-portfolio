@@ -74,6 +74,7 @@
             &:first-child{
                 &::after {
                     content: 'HOME';
+                    font-family: 'Coolvetica';
                 }
             }
         }
@@ -81,12 +82,14 @@
         a.about-link {
             &:after{
                 content: 'ABOUT';
+                font-family: 'Coolvetica';
             }
         }
 
         a.contact-link {
             &:after{
                 content: 'CONTACT';
+                font-family: 'Coolvetica';
             }
         }
 
