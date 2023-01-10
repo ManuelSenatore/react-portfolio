@@ -96,6 +96,13 @@
             }
         }
 
+        a.portfolio-link {
+            &:after{
+                content: 'PORTFOLIO';
+                font-family: 'Coolvetica';
+            }
+        }
+
         a.active {
             svg {
                 color: #ffd700;

@@ -1,0 +1,10 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Weather App",
+            "description": "Weather app created with React",
+            "url": "https://weather-app-dun-omega.vercel.app/"
+        }
+    ]
+}
