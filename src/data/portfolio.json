@@ -5,6 +5,12 @@
             "title": "Weather App",
             "description": "Weather app created with React",
             "url": "https://weather-app-dun-omega.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Admin Dashboard App",
+            "description": "Dashboard app created with React",
+            "url": "https://admin-dashboard-nine-khaki.vercel.app/"
         }
     ]
 }
