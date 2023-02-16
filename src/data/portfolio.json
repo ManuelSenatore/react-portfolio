@@ -11,6 +11,12 @@
             "title": "Admin Dashboard App",
             "description": "Dashboard app created with React",
             "url": "https://admin-dashboard-nine-khaki.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/three.png",
+            "title": "You Tube Clone",
+            "description": "You Tube clone created with React and rapidAPI",
+            "url": "https://youtube-clone-teal-three.vercel.app/"
         }
     ]
 }
